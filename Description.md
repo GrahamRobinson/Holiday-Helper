@@ -5,6 +5,6 @@ The first was a temperature converter that would allow the user to input a numbe
 
 The second functionality was to display the current time and date from a selected country from around the world.
 
-<img src="/Project Screenshots/Screenshot 1.png" />
-<img src="/Project Screenshots/Screenshot 2.png" />
-<img src="/Project Screenshots/Screenshot 3.png" />
+<img src="/Project Screenshots/Screenshot 1.png" width="255px" height="505px" />
+<img src="/Project Screenshots/Screenshot 2.png" width="255px" height="505px" />
+<img src="/Project Screenshots/Screenshot 3.png" width="255px" height="505px" />
